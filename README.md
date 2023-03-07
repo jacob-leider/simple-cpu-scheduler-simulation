@@ -1,6 +1,6 @@
 # simple-cpu-scheduler-simulation
 
-Usage
+## Usage
 
 To build the program from the command line on a UNIX-like system, link and compile the files schedulersim.c, reporter.c, traffic_generator.c as follows:
 
